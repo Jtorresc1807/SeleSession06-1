@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-02T09:12:50 COT" name="Default suite" finished-at="2024-04-02T09:13:05 COT" duration-ms="14371">
+    <groups>
+    </groups>
+    <test started-at="2024-04-02T09:12:50 COT" name="Default test" finished-at="2024-04-02T09:13:05 COT" duration-ms="14371">
+      <class name="com.reports.tests.FluentWaitTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.reports.tests.FluentWaitTest@7a1234bf]" started-at="2024-04-02T09:12:50 COT" name="setUp" finished-at="2024-04-02T09:12:55 COT" duration-ms="4810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLandscape()[pri:0, instance:com.reports.tests.FluentWaitTest@7a1234bf]" started-at="2024-04-02T09:12:55 COT" name="verifyLandscape" finished-at="2024-04-02T09:13:03 COT" duration-ms="8274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLandscape -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.reports.tests.FluentWaitTest@7a1234bf]" started-at="2024-04-02T09:13:03 COT" name="tearDown" finished-at="2024-04-02T09:13:05 COT" duration-ms="1224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.reports.tests.FluentWaitTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
